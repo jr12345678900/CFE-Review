@@ -1,0 +1,12 @@
+{
+  "name": "cfe2-sequences",
+  "version": "1.0.0",
+  "description": "IB Math AI SL CFE Review 2",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  }
+}
